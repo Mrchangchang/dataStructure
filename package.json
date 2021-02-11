@@ -1,0 +1,14 @@
+{
+  "name": "structure",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest test"
+  },
+  "repository": "https://github.com/Mrchangchang/dataStructure.git",
+  "author": "78172670@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jest": "^26.0.20"
+  }
+}
